@@ -28,7 +28,7 @@
 </p>  
 
 
-### 💻 My Editors
+### 💻 My Favorite Editors
 
 
 <p  align="center">

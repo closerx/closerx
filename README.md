@@ -66,6 +66,40 @@
 </p>  
 
 
+<h2 align='center'>Completed <a href='https://Satr.codes'>Satr</a> courses</h2>
+
+<div align='center'><a target='_blank' href='https://satr.codes/courses/MxhtosVATL/view'>
+    <img align='center' alt='JavaScript 101' src='https://assets.safcsp.cloud/badges/badges-44.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/lnCDammOOq/view'>
+    <img align='center' alt='JavaScript 102' src='https://assets.safcsp.cloud/badges/badges-44.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/rRUQyVDkwQ/view'>
+    <img align='center' alt='Python 101' src='https://assets.safcsp.cloud/badges/badges-45.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/VIvMvhyCiV/view'>
+    <img align='center' alt='Python 102' src='https://assets.safcsp.cloud/badges/badges-45.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/MvNhowmHeB/view'>
+    <img align='center' alt='Python 103' src='https://assets.safcsp.cloud/badges/badges-45.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/CATspNvVjT/view'>
+    <img align='center' alt='HTML' src='https://assets.safcsp.cloud/badges/badges-54.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/hNUwyBUKmF/view'>
+    <img align='center' alt='CSS' src='https://assets.safcsp.cloud/badges/badges-53.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/FdteTVpysF/view'>
+    <img align='center' alt='Docker 101' src='https://assets.safcsp.cloud/badges/badges-60.png' width='90.0' height='90.0'/>
+</a>    
+</div>
 
 <br>
 <p align="center">
